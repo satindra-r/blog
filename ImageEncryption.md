@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Image Encryption
 ---
 
 <script src="https://ncase.me/nutshell/nutshell.js"></script>
