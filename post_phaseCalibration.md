@@ -75,13 +75,13 @@ From this it is easy to understand that changing the frequency does not reset th
 This is important as when the frequency of the `tone()` in desmos is modified the same procedure is carried out.
 
 # Cracking Phase Calibration
-To set the internal phase of the oscillator we could simply wait for a very short delay before starting each tone. Let's try and calculate this delay
+To set the internal phase of the oscillator we could simply wait for a very short delay before starting each tone. Let's try and calculate this delay.
 
 ## Short Delay Approach
 
-Taking the frequency as 440Hz and a phase shift of π, we need to find the delay(dt) [:which comes out to be 1/880 of a second](#math1) or about 1.136 ms
+Taking the frequency as 440Hz and a phase shift of π, we need to find the delay(dt) [:which comes out to be 1/880 of a second](#math1) or about $1.136$ ms.
 
-This amount of accuracy or precision is too much to be expected as the desmos ticker usually fire every 20ms
+This amount of accuracy or precision is too much to be expected as the desmos ticker usually fire every 20ms.
 
 <iframe src="https://www.desmos.com/calculator/ir0bh5nlq3" width="100%" style="min-height:75vh"></iframe>
 
