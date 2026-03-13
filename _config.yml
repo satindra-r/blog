@@ -1,3 +1,12 @@
 title: l'Hexagone
 author: Saturn
 theme: minima
+minima:
+  skin: dark
+  social_links:
+    - title: saturn.255 at discord
+      icon: discord
+      url: "https://discord.com/users/751018029055213588"
+    - title: satindra-r at github
+      icon: github
+      url: "https://github.com/satindra-r/"
