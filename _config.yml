@@ -1,13 +1,13 @@
 title: l'Hexagone
 author: Saturn
-theme: jekyll-theme-chirpy
-
-chirpy:
-  theme_mode: dark
+remote_theme: cotes2020/jekyll-theme-chirpy
+plugins:
+  - jekyll-remote-theme
+theme_mode: dark
 github:
   username: satindra-r
 social:
   name: Saturn
-  email: # your email
+  email: satinda.r@gmail.com
   links:
     - https://github.com/satindra-r
