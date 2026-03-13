@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Image Encryption
 ---
 
 <script src="https://ncase.me/nutshell/nutshell.js"></script>
