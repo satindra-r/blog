@@ -1,16 +1,13 @@
 title: l'Hexagone
 author: Saturn
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-minima:
-  skin: dark
-  show_excerpts: true
-  social_links:
-    - title: satindra-r at github
-      icon: github
-      url: "https://github.com/satindra-r/"
-    - title: saturn.255 at discord
-      icon: discord
-      url: "https://discord.com/users/751018029055213588"
+theme: jekyll-theme-chirpy
+
+chirpy:
+  theme_mode: dark
+github:
+  username: satindra-r
+social:
+  name: Saturn
+  email: # your email
+  links:
+    - https://github.com/satindra-r
