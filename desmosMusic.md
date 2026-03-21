@@ -4,7 +4,7 @@ title: Desmos Music and Vernier Stopwatches
 ---
 For the first time any audio can be played on desmos.
 <iframe src="https://www.desmos.com/calculator/tmqsxilkye" width="100%" style="min-height:75vh"></iframe>
-</br>
+<br/>
 <div style="text-align: center;">
   <img src="{{ '/assets/callipers.png' | relative_url }}" alt="Vernier callipers measuring a stopwatch" width="50%">
 </div>
